@@ -1,0 +1,27 @@
+id,asset,category,status,real_path,repository
+RT-IP-0001,R-CoreX Core Architecture,Architecture,Proprietary - host product implemented,/,presencefieldowner-glitch/RealityStateOS
+RT-IP-0002,Nine-Phase Interpretation Pipeline,Method / Architecture,Proprietary - partially implemented (5-step cognition loop),002_KERNEL/LakeTiticaca/laketiticaca/,presencefieldowner-glitch/RealityStateOS
+RT-IP-0003,Verified Bus,Software Architecture,Proprietary - prototype implemented / full module planned,004_VERIFIED_BUS/,presencefieldowner-glitch/RealityStateOS
+RT-IP-0004,IHI,Architecture,Proprietary - no dedicated module,,presencefieldowner-glitch/RealityStateOS
+RT-IP-0005,RHI,Architecture,Proprietary - implemented (prototype),009_INTELLIGENCE/src/planner.ts;009_INTELLIGENCE/src/agentRuntime.ts,presencefieldowner-glitch/RealityStateOS
+RT-IP-0006,NHI,Architecture,Proprietary - prototype implemented (REST+CLI) / full module planned,011_INTERFACE/,presencefieldowner-glitch/RealityStateOS
+RT-IP-0007,SRI,Architecture,Proprietary - minimal implementation / full module planned,008_REALITY_TAPE/,presencefieldowner-glitch/RealityStateOS
+RT-IP-0008,Telemetry & Event Schema,Data Architecture,Proprietary - implemented,003_FOUNDATION/CoreTypes/src/event.ts,presencefieldowner-glitch/RealityStateOS
+RT-IP-0009,Extensibility Framework,Software Architecture,Proprietary - implemented (prototype),002_KERNEL/LakeTiticaca/laketiticaca/plugins.py,presencefieldowner-glitch/RealityStateOS
+RT-IP-0010,Provenance Model,Data Architecture,Proprietary - implemented,005_KNOWLEDGE/src/provenance.ts,presencefieldowner-glitch/RealityStateOS
+RT-IP-0011,Verification Model,Technical Architecture,Proprietary - implemented,003_FOUNDATION/CoreTypes/src/crypto.ts,presencefieldowner-glitch/RealityStateOS
+RT-IP-0012,Audit Trail Model,Technical Architecture,Proprietary - implemented,005_KNOWLEDGE/src/versioning.ts;999_OPERATIONS/src/auditLog.ts,presencefieldowner-glitch/RealityStateOS
+RT-IP-0013,Extension API Model,Software Architecture,Proprietary - implemented (prototype),002_KERNEL/LakeTiticaca/laketiticaca/plugins.py,presencefieldowner-glitch/RealityStateOS
+RT-IP-0014,RealityStateOS Host Product Implementation,Product / Codebase,Proprietary,/,presencefieldowner-glitch/RealityStateOS
+RT-IP-0015,LakeTiticaca Kernel AI Cognition Loop,Software Architecture,Proprietary,002_KERNEL/LakeTiticaca/,presencefieldowner-glitch/RealityStateOS
+RT-IP-0016,001_BOOTSTRAP module,Software Architecture,Proprietary - implemented (prototype),001_BOOTSTRAP/,presencefieldowner-glitch/RealityStateOS
+RT-IP-0017,004_VERIFIED_BUS module,Software Architecture,Proprietary - implemented (single-node prototype),004_VERIFIED_BUS/,presencefieldowner-glitch/RealityStateOS
+RT-IP-0018,005_KNOWLEDGE module,Software Architecture,Proprietary - implemented (prototype),005_KNOWLEDGE/,presencefieldowner-glitch/RealityStateOS
+RT-IP-0019,006_REALITY_GRAPH module,Software Architecture,Proprietary - implemented (prototype),006_REALITY_GRAPH/,presencefieldowner-glitch/RealityStateOS
+RT-IP-0020,007_PRESENCE module,Software Architecture,Proprietary - implemented (prototype),007_PRESENCE/,presencefieldowner-glitch/RealityStateOS
+RT-IP-0021,008_REALITY_TAPE module,Software Architecture,Proprietary - implemented (prototype),008_REALITY_TAPE/,presencefieldowner-glitch/RealityStateOS
+RT-IP-0022,009_INTELLIGENCE module,Software Architecture,Proprietary - implemented (prototype),009_INTELLIGENCE/,presencefieldowner-glitch/RealityStateOS
+RT-IP-0023,010_COORDINATION module,Software Architecture,Proprietary - implemented (prototype),010_COORDINATION/,presencefieldowner-glitch/RealityStateOS
+RT-IP-0024,011_INTERFACE module,Software Architecture,Proprietary - partially implemented,011_INTERFACE/,presencefieldowner-glitch/RealityStateOS
+RT-IP-0025,012_STORAGE module,Software Architecture,Proprietary - implemented (single-node prototype),012_STORAGE/,presencefieldowner-glitch/RealityStateOS
+RT-IP-0026,999_OPERATIONS module,Software Architecture,Proprietary - implemented (prototype),999_OPERATIONS/,presencefieldowner-glitch/RealityStateOS
