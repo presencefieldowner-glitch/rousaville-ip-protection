@@ -2,7 +2,7 @@
 
 This is the working, evidence-linked index the dossier's Section 24 ("Recommended Master Repository Structure") describes. It is generated from — and should be kept in sync with — `RT-IP-RCOREX-MASTER-001` Section 13 and the companion mapping record `RT-IP-RCOREX-MAPPING-002`.
 
-See [`asset-index.csv`](asset-index.csv) for the machine-readable table (26 assets as of the last sync).
+See [`asset-index.csv`](asset-index.csv) for the machine-readable table (28 assets as of the last sync, 2026-08-13).
 
 ## How to keep this current
 

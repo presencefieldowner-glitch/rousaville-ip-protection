@@ -25,3 +25,5 @@ RT-IP-0023,010_COORDINATION module,Software Architecture,Proprietary - implement
 RT-IP-0024,011_INTERFACE module,Software Architecture,Proprietary - partially implemented,011_INTERFACE/,presencefieldowner-glitch/RealityStateOS
 RT-IP-0025,012_STORAGE module,Software Architecture,Proprietary - implemented (single-node prototype),012_STORAGE/,presencefieldowner-glitch/RealityStateOS
 RT-IP-0026,999_OPERATIONS module,Software Architecture,Proprietary - implemented (prototype),999_OPERATIONS/,presencefieldowner-glitch/RealityStateOS
+RT-IP-0027,Verifiable Provenance Credential Chain,Software Architecture / Method,Proprietary - implemented,005_KNOWLEDGE/src/credentials.ts,presencefieldowner-glitch/RealityStateOS
+RT-IP-0028,Dual-Implementation Audio Synthesis Engine,Software Architecture,Proprietary - implemented,003_AUDIO_ENGINE/,presencefieldowner-glitch/rounsaville-ai-music-generator

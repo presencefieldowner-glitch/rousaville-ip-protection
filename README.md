@@ -11,7 +11,8 @@ Private provenance archive for Rounsaville Technologies intellectual-property re
 
 ### Supporting evidence
 
-- [`00-IP-REGISTRY/RT-IP-RCOREX-MAPPING-002_v1.0.0.md`](00-IP-REGISTRY/RT-IP-RCOREX-MAPPING-002_v1.0.0.md) / [`.pdf`](00-IP-REGISTRY/RT-IP-RCOREX-MAPPING-002_v1.0.0.pdf) — companion record documenting exactly how each R-CoreX concept was mapped to real code, with the repositories surveyed, evidence cited (file paths, docstrings), and the gaps found (e.g. `rounsaville-ai-music-generator` is an empty repository; `presence-resonance` is a separate sibling product with no real R-CoreX implementation).
+- [`00-IP-REGISTRY/RT-IP-RCOREX-MAPPING-002_v1.1.0.md`](00-IP-REGISTRY/RT-IP-RCOREX-MAPPING-002_v1.1.0.md) / [`.pdf`](00-IP-REGISTRY/RT-IP-RCOREX-MAPPING-002_v1.1.0.pdf) — **current version.** Re-run on 2026-08-13 as v1.0.0 required. `rounsaville-ai-music-generator` is no longer empty (its audio engine is implemented and tested); RealityStateOS modules 001, 004–012 and 999 are no longer unbuilt (all 27 packages build and test, CI green); and the survey scope was widened from three repositories to all ten in the account, which identified a second implementation of RT-IP-0015 in `feathers-of-trinity`. Adds RT-IP-0027 and RT-IP-0028. The `presence-resonance` finding is re-verified unchanged.
+- [`00-IP-REGISTRY/RT-IP-RCOREX-MAPPING-002_v1.0.0.md`](00-IP-REGISTRY/RT-IP-RCOREX-MAPPING-002_v1.0.0.md) / [`.pdf`](00-IP-REGISTRY/RT-IP-RCOREX-MAPPING-002_v1.0.0.pdf) — superseded, retained unmodified as the record of the repository states inspected on 2026-07-23. Its findings (including that `rounsaville-ai-music-generator` was then an empty repository) were accurate on that date; see v1.1.0 for what has since changed.
 
 Every `.pdf` and `.md` file has a matching `.sha256` checksum, computed at commit time, for tamper-evidence.
 
